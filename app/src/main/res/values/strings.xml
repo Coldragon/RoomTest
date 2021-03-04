@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">RoomTest</string>
+    <string name="add_word">Ajouter un Mot</string>
+    <string name="hint_word">Mot…</string>
+    <string name="button_save">Sauvegarder</string>
+    <string name="empty_not_saved">Le mot n\'a pas été sauvegarder car il est vide</string>
+</resources>
